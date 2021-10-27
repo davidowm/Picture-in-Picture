@@ -1,0 +1,23 @@
+{
+  "name": "picture-in-picture",
+  "version": "1.0.0",
+  "description": "picture in picture ",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidowm/Picture-in-Picture.git"
+  },
+  "author": "Marci Davidow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidowm/Picture-in-Picture/issues"
+  },
+  "homepage": "https://github.com/davidowm/Picture-in-Picture#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
